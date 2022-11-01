@@ -19,5 +19,5 @@ https://github.com/ElinaLastovska/home-exercises
 - :sunflower: Come back later and see what new projects I will make next!
 
 - if You want to contact me:
- My LinkedIn profile - https://www.linkedin.com/in/el%C4%ABna-lastovska-0265a7255/
- My e-mail - shalmeelina@gmail.com
+- My LinkedIn profile - https://www.linkedin.com/in/el%C4%ABna-lastovska-0265a7255/
+- My e-mail - shalmeelina@gmail.com
