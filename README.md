@@ -4,9 +4,13 @@ This is my GitHub!
 It may seem a bit empty for now, but I'm working on that in the future I will have many interesting projects to show.
 
 
-- 🌱 I’m currently learning more about Java and Spring Boot framework.
+- 🌱 I’m currently learning more about C#.
+- Son, I will add my little C# code projects.
 
-- 🔭 I’m currently working on an application that can store flights between different airports and allows you to search them.
+
+- 🌱 Before that, I have made few little projects in Java, some using Spring boot framework
+
+- 🔭 This is little application that can store flights between different airports and allows you to search them.
 I'm programming in Java and using Spring Boot framework. 
 https://github.com/ElinaLastovska/flight-planner
 
